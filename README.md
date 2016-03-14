@@ -1,7 +1,7 @@
 # restreamer-box
 An outdoor box for your Raspberry Pi to connect your network camera.
 
-## What is if for?
+## What is it for?
 coming...
 
 ## Needed parts
